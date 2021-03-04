@@ -1,0 +1,16 @@
+D:\Cursuri-Seminarii\Anul 3 Tutuianu Razvan\Semestrul 2\Topici Speciale .NET\Curs 3\ExempluCodCurs\OCP.SalaryCalculator\OCP.SalaryCalculator\bin\Debug\net5.0\OCP.SalaryCalculator.exe
+D:\Cursuri-Seminarii\Anul 3 Tutuianu Razvan\Semestrul 2\Topici Speciale .NET\Curs 3\ExempluCodCurs\OCP.SalaryCalculator\OCP.SalaryCalculator\bin\Debug\net5.0\OCP.SalaryCalculator.deps.json
+D:\Cursuri-Seminarii\Anul 3 Tutuianu Razvan\Semestrul 2\Topici Speciale .NET\Curs 3\ExempluCodCurs\OCP.SalaryCalculator\OCP.SalaryCalculator\bin\Debug\net5.0\OCP.SalaryCalculator.runtimeconfig.json
+D:\Cursuri-Seminarii\Anul 3 Tutuianu Razvan\Semestrul 2\Topici Speciale .NET\Curs 3\ExempluCodCurs\OCP.SalaryCalculator\OCP.SalaryCalculator\bin\Debug\net5.0\OCP.SalaryCalculator.runtimeconfig.dev.json
+D:\Cursuri-Seminarii\Anul 3 Tutuianu Razvan\Semestrul 2\Topici Speciale .NET\Curs 3\ExempluCodCurs\OCP.SalaryCalculator\OCP.SalaryCalculator\bin\Debug\net5.0\OCP.SalaryCalculator.dll
+D:\Cursuri-Seminarii\Anul 3 Tutuianu Razvan\Semestrul 2\Topici Speciale .NET\Curs 3\ExempluCodCurs\OCP.SalaryCalculator\OCP.SalaryCalculator\bin\Debug\net5.0\ref\OCP.SalaryCalculator.dll
+D:\Cursuri-Seminarii\Anul 3 Tutuianu Razvan\Semestrul 2\Topici Speciale .NET\Curs 3\ExempluCodCurs\OCP.SalaryCalculator\OCP.SalaryCalculator\bin\Debug\net5.0\OCP.SalaryCalculator.pdb
+D:\Cursuri-Seminarii\Anul 3 Tutuianu Razvan\Semestrul 2\Topici Speciale .NET\Curs 3\ExempluCodCurs\OCP.SalaryCalculator\OCP.SalaryCalculator\obj\Debug\net5.0\OCP.SalaryCalculator.csprojAssemblyReference.cache
+D:\Cursuri-Seminarii\Anul 3 Tutuianu Razvan\Semestrul 2\Topici Speciale .NET\Curs 3\ExempluCodCurs\OCP.SalaryCalculator\OCP.SalaryCalculator\obj\Debug\net5.0\OCP.SalaryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursuri-Seminarii\Anul 3 Tutuianu Razvan\Semestrul 2\Topici Speciale .NET\Curs 3\ExempluCodCurs\OCP.SalaryCalculator\OCP.SalaryCalculator\obj\Debug\net5.0\OCP.SalaryCalculator.AssemblyInfoInputs.cache
+D:\Cursuri-Seminarii\Anul 3 Tutuianu Razvan\Semestrul 2\Topici Speciale .NET\Curs 3\ExempluCodCurs\OCP.SalaryCalculator\OCP.SalaryCalculator\obj\Debug\net5.0\OCP.SalaryCalculator.AssemblyInfo.cs
+D:\Cursuri-Seminarii\Anul 3 Tutuianu Razvan\Semestrul 2\Topici Speciale .NET\Curs 3\ExempluCodCurs\OCP.SalaryCalculator\OCP.SalaryCalculator\obj\Debug\net5.0\OCP.SalaryCalculator.csproj.CoreCompileInputs.cache
+D:\Cursuri-Seminarii\Anul 3 Tutuianu Razvan\Semestrul 2\Topici Speciale .NET\Curs 3\ExempluCodCurs\OCP.SalaryCalculator\OCP.SalaryCalculator\obj\Debug\net5.0\OCP.SalaryCalculator.dll
+D:\Cursuri-Seminarii\Anul 3 Tutuianu Razvan\Semestrul 2\Topici Speciale .NET\Curs 3\ExempluCodCurs\OCP.SalaryCalculator\OCP.SalaryCalculator\obj\Debug\net5.0\ref\OCP.SalaryCalculator.dll
+D:\Cursuri-Seminarii\Anul 3 Tutuianu Razvan\Semestrul 2\Topici Speciale .NET\Curs 3\ExempluCodCurs\OCP.SalaryCalculator\OCP.SalaryCalculator\obj\Debug\net5.0\OCP.SalaryCalculator.pdb
+D:\Cursuri-Seminarii\Anul 3 Tutuianu Razvan\Semestrul 2\Topici Speciale .NET\Curs 3\ExempluCodCurs\OCP.SalaryCalculator\OCP.SalaryCalculator\obj\Debug\net5.0\OCP.SalaryCalculator.genruntimeconfig.cache

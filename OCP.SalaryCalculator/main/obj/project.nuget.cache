@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "gA5vnBmCpz82Ogg7Nq1dCNBWuzuBQvdvLGQjiJjfuJZe15XSsV5OD6Z1G+C/B4mti6JBbyP2+VBfQSoup+x90w==",
+  "success": false,
+  "projectFilePath": "D:\\Cursuri-Seminarii\\Anul 3 Tutuianu Razvan\\Semestrul 2\\Topici Speciale .NET\\Curs 3\\ExempluCodCurs\\OCP.SalaryCalculator\\main\\main.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project OCP.SalaryCalculator is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project OCP.SalaryCalculator supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "OCP.SalaryCalculator",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
